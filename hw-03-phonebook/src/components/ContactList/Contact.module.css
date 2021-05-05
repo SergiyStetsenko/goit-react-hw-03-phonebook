@@ -1,0 +1,10 @@
+.button {
+  background-color: firebrick;
+  border: 1px solid firebrick;
+  outline: none;
+  border-radius: 20px;
+}
+
+.list {
+  list-style: none;
+}
